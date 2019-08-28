@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="commons-util" />
+        <module name="simple-cipher" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="commons-util" target="1.8" />
+      <module name="simple-cipher" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
