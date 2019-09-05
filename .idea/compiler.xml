@@ -12,7 +12,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="commons-util" target="1.8" />
-      <module name="simple-cipher" target="1.8" />
+      <module name="simple-cipher" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
